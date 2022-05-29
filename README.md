@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Rajeev Kumar 
-- 👀 I’m interested in web/app development
-- 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Who am I? 🤨
+Ciao! I am Rajeev Kumar a developer, student and a keen learner ready to help this community grow.
+- 👀 I’m interested in web/app development.
+- 🌱 I’m currently learning web devlopment.
+- 📫 How to reach me ...https://www.facebook.com/profile.php?id=100025227675435
 - 
 
 <!---
