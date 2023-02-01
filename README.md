@@ -3,7 +3,7 @@ Ciao! I am Rajeev Kumar a developer, student and a keen learner ready to help th
 - 👀 I’m interested in web/app development.
 - 🌱 I’m currently learning web devlopment.
 - 📫 How to reach me ... https://rajeev03.netlify.app
-- @35_rajeev
+- https://twitter.com/35_rajeev
 
 
 <!---
